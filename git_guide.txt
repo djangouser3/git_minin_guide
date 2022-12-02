@@ -5,3 +5,19 @@ git status // what happening
 git add file.file   // add file to git status
 git rm --cached index.html // remove track off file
 git add . // add all files to git 
+git commit -m "first commint"  // commit branch changes
+  git config --global user.email "you@example.com"   // init mail and name 
+  git config --global user.name "Your Name"
+  
+  [master (root-commit) 2cfc1b5] test comm //2cfc1b5 unique hash of commit to get back to him
+ 
+.gitignore   //ignore files 
+error.txt    //for file
+/logs       //for dir 
+  
+
+
+
+
+
+
