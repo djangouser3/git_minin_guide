@@ -15,6 +15,16 @@ git commit -m "first commint"  // commit branch changes
 error.txt    //for file
 /logs       //for dir 
   
+git branch  // on which branch you are
+git branch  name //create new branch name 
+git brancg -D name  //remove branch bra
+git checkout name //change brancg on name 
+git checkout -b newBranch //create and switch to new branch
+
+on other branch you wont see file of other branch
+
+git merge name // merge branch that  you are in with name branch
+
 
 
 
