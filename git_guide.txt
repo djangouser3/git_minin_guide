@@ -1,0 +1,7 @@
+git-scm.com -- docs
+guide
+git init  // create .git
+git status // what happening
+git add file.file   // add file to git status
+git rm --cached index.html // remove track off file
+git add . // add all files to git 
