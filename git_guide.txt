@@ -17,7 +17,7 @@ error.txt    //for file
   
 git branch  // on which branch you are
 git branch  name //create new branch name 
-git brancg -D name  //remove branch bra
+git branch -D name  //remove branch bra
 git checkout name //change brancg on name 
 git checkout -b newBranch //create and switch to new branch
 
