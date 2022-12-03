@@ -21,11 +21,28 @@ git brancg -D name  //remove branch bra
 git checkout name //change brancg on name 
 git checkout -b newBranch //create and switch to new branch
 
-on other branch you wont see file of other branch
+on other branch you wont see files of other branch
 
 git merge name // merge branch that  you are in with name branch
 
 
+
+----------
+echo "# git_minin_guide" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main   //rename master in main
+git remote add origin https://github.com/djangouser3/git_minin_guide.git // add origin
+git push -u origin main  //push changes on github.com
+
+---------
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/djangouser3/git_minin_guide.git
+git branch -M main
+git push -u origin main
 
 
 
